@@ -1,8 +1,10 @@
 {
+  
   "name": "reactnewsportal",
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://hemantkadam123.github.io/News-Mag",
   "scripts": {
     "dev": "vite",
     "predeploy" : "npm run build",
@@ -30,3 +32,4 @@
     "vite": "^5.2.0"
   }
 }
+
